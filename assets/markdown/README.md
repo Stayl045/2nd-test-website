@@ -6,8 +6,8 @@
 
 ## links
 
-**Repo:**: https://github.com/Stayl045/cpnt260-a2
-**Pages:**
+**Repo:** https://github.com/Stayl045/cpnt260-a2
+**Pages:** https://stayl045.github.io/cpnt260-a2/
 
 ## Reflection
 
@@ -28,7 +28,7 @@ I found this assignment particularily engaging and fun! This time around, I had 
 
 - The Playstation 5 [Large Image](https://i.guim.co.uk/img/media/953860ce3e8f24da59a4a0173383eb95f9384c78/141_21_810_486/master/810.jpg?width=1200&quality=85&auto=format&fit=max&s=4b7289aa83a0ca6a38868e2eff666feb) by [Playstation](https://www.playstation.com/en-ca/).
 
-- Playstation Dick [Image](https://trendinline.com/new/sony-ps5-playstation-5-us-plug-blu-ray-edition-white/) by [Playstation](https://www.playstation.com/en-ca/).
+- Playstation Disk [Image](https://trendinline.com/new/sony-ps5-playstation-5-us-plug-blu-ray-edition-white/) by [Playstation](https://www.playstation.com/en-ca/).
 
 - Playstation Digital [Image](https://www.cnn.com/2021/11/03/cnn-underscored/ps5-vs-ps5-digital-edition/index.html) by [Playstation](https://www.playstation.com/en-ca/).
 
