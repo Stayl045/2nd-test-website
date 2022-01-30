@@ -189,6 +189,9 @@ header {
   width: fit-content;
   padding: 15px;
   border-radius: 7px;
+  font-family: "Alfa Slab One", cursive;
+
+  font-family: "Roboto", sans-serif;
 }
 
 .card-btn {
@@ -243,6 +246,12 @@ header {
   color: black;
   padding: 10px;
   font-size: 30px;
+}
+
+.cat p {
+  font-family: "Alfa Slab One", cursive;
+
+  font-family: "Roboto", sans-serif;
 }
 
 /*************************/
