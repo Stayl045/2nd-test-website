@@ -1,0 +1,28 @@
+### CPNT-260 Assignment 2: Stephan's Products and Services
+
+## Stephan Taylor
+
+---
+
+## links
+
+**Repo:**
+**Pages:**
+
+## Reflection
+
+This assignment was really fun and allowed me to dip my toes into different design elements that were formally foreign to me.
+
+## Attribution
+
+- The Playstation 5 [Large Image](https://i.guim.co.uk/img/media/953860ce3e8f24da59a4a0173383eb95f9384c78/141_21_810_486/master/810.jpg?width=1200&quality=85&auto=format&fit=max&s=4b7289aa83a0ca6a38868e2eff666feb) by [Playstation](https://www.playstation.com/en-ca/).
+- Playstation Dick [Image](https://trendinline.com/new/sony-ps5-playstation-5-us-plug-blu-ray-edition-white/) by [Playstation](https://www.playstation.com/en-ca/).
+- Playstation Digital [Image](https://www.cnn.com/2021/11/03/cnn-underscored/ps5-vs-ps5-digital-edition/index.html) by [Playstation](https://www.playstation.com/en-ca/).
+
+- Demon Souls Card [Image](https://images.pushsquare.com/9bb3008638bd1/demons-souls-cover.cover_large.jpg) by [Blue Point](https://www.bluepointgames.com//) games.
+
+- Spider-man: Miles Morales Card [Image](https://m.media-amazon.com/images/I/819ANa02MqL._AC_SX466_.jpg) by [Insomniac](https://insomniac.games/) games.
+
+- Death Loop Card [Image](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6441/6441960cv11d.jpg;maxHeight=640;maxWidth=550) by [Arkane Lyon](https://www.arkane-studios.com/en) games.
+
+- Ratchet and Clank: Rift Apart Card [Image](https://www.mobygames.com/images/covers/l/780049-ratchet-clank-rift-apart-playstation-5-front-cover.jpg) by [Insomniac](https://insomniac.games/) games.

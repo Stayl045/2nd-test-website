@@ -1,0 +1,277 @@
+.title {
+  font-size: 55px;
+}
+
+header {
+  background-color: #ffffff;
+}
+
+/******************/
+/*** Navigation ***/
+/******************/
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 50px;
+  padding: 40px;
+  margin-bottom: 20px;
+  background: #eee;
+  box-shadow: 0 8px 8px -4px lightblue;
+}
+
+.nav-bar {
+  display: flex;
+  color: grey;
+  flex-grow: 2;
+  justify-content: flex-end;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+  justify-content: space-evenly;
+  justify-content: center;
+}
+
+.nav-links a {
+  color: black;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.nav-links a:hover {
+  color: #0070d1;
+}
+/**********************/
+/*** Grid Container ***/
+/**********************/
+.grid-container {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fit, (240px, 1fr));
+  padding: 0px 100px 0px 100px;
+  color: #444;
+}
+
+.box {
+  background-color: blanchedalmond;
+  color: #fff;
+  border-radius: 10px;
+  padding: 30px;
+  font-size: 150%;
+}
+
+.box-a {
+  background-image: url("../images/playstation-5-main.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  grid-column: 1 / 3;
+  height: 90vh;
+  box-shadow: 0 12px 12px -4px lightblue;
+}
+
+.box-b {
+  text-align: center;
+  background-image: url("../images/playstation-5-disk.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 55vh;
+  box-shadow: 0 12px 12px -4px lightblue;
+}
+
+.box-b h2 p {
+  background-color: black;
+  color: black;
+}
+
+.box-b a {
+  color: white;
+  background-color: black;
+}
+
+.box-b p {
+  color: black;
+}
+
+.box-c {
+  background-image: url("../images/playstation-5-digital.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  grid-column: 2;
+  grid-row: 2;
+  height: 40vh;
+  text-align: center;
+  height: 55vh;
+  box-shadow: 0 12px 12px -4px lightblue;
+}
+
+.box-c h2 p {
+  background-color: black;
+  color: black;
+}
+
+.box-c p {
+  color: black;
+}
+
+.box-c a {
+  color: white;
+  background-color: black;
+}
+
+/**********************/
+/*** Card Container ***/
+/**********************/
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.card-box {
+  display: flex;
+  background-color: #444;
+  border-radius: 10px;
+  width: 250px;
+  height: 320px;
+}
+
+.card-1 {
+  background-image: url("../images/ps5-demon-souls.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.card-2 {
+  background-image: url("../images/spider-man-cover.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.card-3 {
+  background-image: url("../images/death-loop-card.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.card-4 {
+  background-image: url("../images/ratchet-and-clank-cover.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+/*******************/
+/*** Card Button ***/
+/*******************/
+.btn {
+  display: flex;
+  background-color: white;
+  color: black;
+  display: grid;
+  text-align: center;
+  width: fit-content;
+  padding: 15px;
+  border-radius: 7px;
+}
+
+.card-btn {
+  display: grid;
+  place-items: center;
+  padding: 5px;
+}
+
+.btn:hover {
+  background-color: rgb(62, 62, 62);
+  color: white;
+  cursor: pointer;
+}
+
+/*************************/
+/***** List Items ********/
+/*************************/
+.flex-catagories {
+  display: flex;
+  flex-direction: column;
+  height: 70px;
+}
+
+.catagories-head {
+  justify-content: space-evenly;
+  display: flex;
+  flex-direction: column;
+}
+
+.cat-head {
+  background-color: black;
+  color: white;
+  display: grid;
+  text-align: center;
+  padding: 15px;
+  font-size: 35px;
+  margin-top: 20px;
+}
+
+.cat {
+  box-shadow: 0 12px 12px -4px lightblue;
+  display: inline-flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin: 15px;
+  text-align: start;
+  padding: 20px;
+  justify-content: start;
+}
+
+.cat h2 {
+  color: black;
+  padding: 10px;
+  font-size: 30px;
+}
+
+/*************************/
+/*** Card Button Media ***/
+/*************************/
+@media screen and (max-width: 600px) {
+  header {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+  .nav-links a {
+    display: none;
+  }
+
+  .card-box {
+    display: flex;
+    flex-direction: row;
+    background-color: #444;
+    border-radius: 10px;
+    width: 200px;
+    height: 250px;
+  }
+
+  .cat h2 {
+    display: grid;
+    text-align: center;
+    color: black;
+    padding: 10px;
+    font-size: 30px;
+  }
+}

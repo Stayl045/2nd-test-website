@@ -1,0 +1,22 @@
+:root {
+  --black: #1c1e18;
+  --white: #c5e5ec;
+  --gray: #97b0bf;
+  --gray-low-op: hsla(203, 21%, 75%, 0.3);
+  --red: #b97c85;
+  --green: #3dadb7;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: whitesmoke;
+}
