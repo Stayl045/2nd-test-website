@@ -13,7 +13,7 @@
 
 I found this assignment particularily engaging and fun! This time around, I had to really reflect on how to wrap my head around grid.
 
-- As I mentioned in Journal Entry, I found some help on YouTube on how to understand grid better.
+- **ISSUE** As I mentioned in Journal Entry, I encountered lots of problems with solving grid. However, I found some help on YouTube on how to understand grid better from Kevin Powell.
   - This allowed me to creete a design that I felt comfortable creating.
 - I was also inspired by the likes of Apple and various other popular webpages as my main layout.
   - I am the kind of guy who likes more simple layouts. In my eyes, this allows the flare to more more easiliy.
@@ -39,3 +39,5 @@ I found this assignment particularily engaging and fun! This time around, I had 
 - Death Loop Card [Image](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6441/6441960cv11d.jpg;maxHeight=640;maxWidth=550) by [Arkane Lyon](https://www.arkane-studios.com/en) games.
 
 - Ratchet and Clank: Rift Apart Card [Image](https://www.mobygames.com/images/covers/l/780049-ratchet-clank-rift-apart-playstation-5-front-cover.jpg) by [Insomniac](https://insomniac.games/) games.
+
+Font from [FontAwesome](https://fontawesome.com/).
